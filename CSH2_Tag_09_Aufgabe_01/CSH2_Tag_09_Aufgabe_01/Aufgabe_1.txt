@@ -1,0 +1,11 @@
+/*
+ *  - Erstellen Sie in der Klasse Program den Delegate "Ausgabe", der als Parameter ein String Array erhält
+ *  - Erstellen Sie die drei void Methoden Bildschirm, Datei und Datenbank für den Delegate
+ *      (d.h. gleiche Parameter)
+ *  - Die drei Methoden sollen jeden String im Array testweise auf der Konsole ausgeben, 
+ *      wobei die Methoden zur Unterscheidung auch das Ziel der Ausgabe mit ausgeben sollen
+ *      z.B. Console.WriteLine("Schreibe {0} in die Datenbank...", daten[i]);
+ *  - Testen Sie die Methoden und den Delegate im Main, indem Sie dort ein String Array anlegen,
+ *      dem Delegate die Methoden zuweisen und aufrufen.
+ */
+

@@ -1,0 +1,12 @@
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\bin\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.exe
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\bin\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.deps.json
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\bin\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.runtimeconfig.json
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\bin\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.runtimeconfig.dev.json
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\bin\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.dll
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\bin\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.pdb
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\obj\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.AssemblyInfoInputs.cache
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\obj\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.AssemblyInfo.cs
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\obj\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\obj\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.dll
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\obj\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.pdb
+C:\Users\Phil\source\repos\CSH2_Tag_09_Aufgabe_01\CSH2_Tag_09_Aufgabe_01\obj\Debug\netcoreapp3.1\CSH2_Tag_09_Aufgabe_01.genruntimeconfig.cache

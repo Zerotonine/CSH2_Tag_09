@@ -1,0 +1,9 @@
+﻿/* Aufgabe 0 (Basics)
+ * void Delegate "Aktion" ohne Parameter 
+ * Klasse "Sportler" mit void Methode "FühreAktionAus", welche als Parameter eine Aktion erwartet und die Aktion ausführt.
+ * In der Klasse "Program":
+ * Void Methode "Schwimmen" ohne Parameter: gibt auf der Konsole "Ich schwimme." aus.
+ * Void Methode "Laufen" ohne Parameter: gibt auf der Konsole "Ich laufe." aus.
+ * In der Main:
+ * Erstellen Sie einen Sportler, rufen Sie "FühreAktionAus" auf und übergeben Sie einmal "Schwimmen" und einmal "Laufen".
+ */
