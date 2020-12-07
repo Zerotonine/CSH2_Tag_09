@@ -20,5 +20,5 @@
 [![Private Methoden...](http://img.youtube.com/vi/ShidTWRVOXA/0.jpg)](http://www.youtube.com/watch?v=ShidTWRVOXA)
 
 
-## Return values bei delegate multicasts speichern
+## Return values von delegate multicasts speichern
 [![Multicast return values](http://img.youtube.com/vi/a9YSaW99x5U/0.jpg)](http://www.youtube.com/watch?v=a9YSaW99x5U)
