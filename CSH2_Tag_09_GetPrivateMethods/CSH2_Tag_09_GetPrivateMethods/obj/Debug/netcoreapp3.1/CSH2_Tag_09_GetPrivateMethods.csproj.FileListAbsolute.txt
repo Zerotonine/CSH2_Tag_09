@@ -1,0 +1,13 @@
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\bin\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.exe
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\bin\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.deps.json
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\bin\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.runtimeconfig.json
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\bin\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.runtimeconfig.dev.json
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\bin\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.dll
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\bin\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.pdb
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\obj\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\obj\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.AssemblyInfoInputs.cache
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\obj\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.AssemblyInfo.cs
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\obj\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\obj\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.dll
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\obj\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.pdb
+C:\Users\Phil\source\repos\CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods\obj\Debug\netcoreapp3.1\CSH2_Tag_09_GetPrivateMethods.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSH2_Tag_09_GetPrivateMethods", "CSH2_Tag_09_GetPrivateMethods\CSH2_Tag_09_GetPrivateMethods.csproj", "{083EA4A0-06C4-4A08-8C97-3F6825581C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{083EA4A0-06C4-4A08-8C97-3F6825581C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083EA4A0-06C4-4A08-8C97-3F6825581C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083EA4A0-06C4-4A08-8C97-3F6825581C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083EA4A0-06C4-4A08-8C97-3F6825581C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703F4D60-1C4C-4460-AB7A-C744E5358DDB}
+	EndGlobalSection
+EndGlobal
