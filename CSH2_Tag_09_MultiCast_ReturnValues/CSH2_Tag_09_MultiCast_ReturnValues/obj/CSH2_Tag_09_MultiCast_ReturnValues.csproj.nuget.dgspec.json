@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Phil\\source\\repos\\CSH2_Tag_09_MultiCast_ReturnValues\\CSH2_Tag_09_MultiCast_ReturnValues\\CSH2_Tag_09_MultiCast_ReturnValues.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Phil\\source\\repos\\CSH2_Tag_09_MultiCast_ReturnValues\\CSH2_Tag_09_MultiCast_ReturnValues\\CSH2_Tag_09_MultiCast_ReturnValues.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Phil\\source\\repos\\CSH2_Tag_09_MultiCast_ReturnValues\\CSH2_Tag_09_MultiCast_ReturnValues\\CSH2_Tag_09_MultiCast_ReturnValues.csproj",
+        "projectName": "CSH2_Tag_09_MultiCast_ReturnValues",
+        "projectPath": "C:\\Users\\Phil\\source\\repos\\CSH2_Tag_09_MultiCast_ReturnValues\\CSH2_Tag_09_MultiCast_ReturnValues\\CSH2_Tag_09_MultiCast_ReturnValues.csproj",
+        "packagesPath": "C:\\Users\\Phil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phil\\source\\repos\\CSH2_Tag_09_MultiCast_ReturnValues\\CSH2_Tag_09_MultiCast_ReturnValues\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Phil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
